@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WikiGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-bb simplifymobility-simplifymobility -proj \"Simplify Mobility\" -out \"C:\\Entelect\\simplifymobility-simplifymobility\\wiki\""
+    }
+  }
+}
