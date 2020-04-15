@@ -21,7 +21,7 @@
     <None Update="WikiTemplates\Database Details.md">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="WikiTemplates\Deployments.md">
+    <None Update="WikiTemplates\Deployments\Deployments.md">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="WikiTemplates\High-Level Overview.md">

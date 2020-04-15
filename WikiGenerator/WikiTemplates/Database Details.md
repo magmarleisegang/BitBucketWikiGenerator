@@ -2,7 +2,7 @@
 
 ------------------
 
-[Database Backups](https://bitbucket.org/entelect-software/{{BitBucketFolder}}/wiki/Database%20Backups)
+[Database Backups]({{BitBucketFolder}}/wiki/Database%20Backups)
 
 ------------------
 
